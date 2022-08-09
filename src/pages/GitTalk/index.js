@@ -11,8 +11,8 @@ export default class Gitalks extends React.Component {
             clientID: '0c131c71d63b0d2734ba',
             clientSecret: '7c9395b8bcff195656207eb2ba12a59961087277',
             repo: 'blogtalk',
-            owner: 'lipeiyang1211',
-            admin: 'lipeiyang1211',
+            owner: 'LiPeiyang1211',
+            admin: 'LiPeiyang1211',
             id: this.props.path,
             distractionFreeMode: false   
         })

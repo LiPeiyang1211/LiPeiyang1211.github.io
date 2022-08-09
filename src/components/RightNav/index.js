@@ -48,7 +48,7 @@ class RightNav extends React.Component {
         })
     }
     toGitIndex=()=>{
-        window.open('https://github.com/lipeiyang1211');
+        window.open('https://github.com/LiPeiyang1211');
     }
     render() {
         const { taglist, sysTime} = this.state;

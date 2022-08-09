@@ -45,7 +45,7 @@ class Blog extends React.Component {
         const self = this;
         axios.get(`https://api.github.com/repos/${CONFIG['owner']}/blog/issues/` + path, {
             params: {
-                creator: 'lipeiyang1211',
+                creator: 'LiPeiyang1211',
                 client_id: '0c131c71d63b0d2734ba',
                 client_secret: '7c9395b8bcff195656207eb2ba12a59961087277'
             }
